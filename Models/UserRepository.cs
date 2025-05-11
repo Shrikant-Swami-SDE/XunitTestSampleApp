@@ -8,7 +8,7 @@
             // Simulating a data source with some dummy data
             _users = new List<User>
             {
-                new User { Id = 1, Name = "John Doe", Email = "john@example.com" },
+                new User { Id = 1, Name = "Shrikant Swami", Email = "Srikantlswami@gmail.com" },
                 new User { Id = 2, Name = "Jane Smith", Email = "jane@example.com" }
             };
         }
